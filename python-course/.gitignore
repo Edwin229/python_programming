@@ -1,0 +1,7 @@
+# ignore file that we don't need
+
+__pycache__/
+*.py[cod]
+.env
+venv/
+.DS_Store
