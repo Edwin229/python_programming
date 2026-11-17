@@ -19,6 +19,4 @@ Rules of variable declaration in python:
 pyhon (e.g., if, else, while, print etc.).
 5. variable names should be discritive and meaningful.
 6. variable names should not start with a number. 
-
-
 """
