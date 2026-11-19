@@ -52,7 +52,7 @@ else:
 # Using if/elif/else to route the correct operation based on the menu choice
 if menu_choice == "1":
  result = first_input + second_input
-
+ print("Result:", round(result, 2))
 elif menu_choice == "2":
  result = first_input - second_input 
  print("Result:", round(result, 2))
